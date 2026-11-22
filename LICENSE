@@ -1,13 +1,36 @@
+PLANIFICA — LICENCIA DE USO
 Copyright (c) 2026 Ing. JM (Jorge Meraz). Todos los derechos reservados.
 
 Planifica es software propietario. Su código fuente, diseño, documentación,
 marcas y binarios son propiedad de Jorge Meraz.
 
-No se concede permiso para copiar, modificar, distribuir, sublicenciar, vender
-o explotar comercialmente este software, total o parcialmente, sin autorización
-previa y por escrito del titular.
+Al descargar, instalar o usar Planifica aceptas los siguientes términos.
 
-El uso del instalador está permitido únicamente a las personas autorizadas por
-el titular. Este aviso debe conservarse en todas las copias autorizadas.
+1. LICENCIA DE USO
+Se permite descargar el instalador desde los canales oficiales y usar Planifica
+en tus equipos, para fines personales o educativos. Esta autorización es
+gratuita, no exclusiva, no transferible y revocable.
 
-Para solicitar permisos o soporte, contacta al titular del proyecto.
+2. RESTRICCIONES
+No se permite:
+- redistribuir, vender, alquilar, sublicenciar o publicar el instalador o el
+  software;
+- modificar, descompilar, desensamblar o intentar extraer el código fuente,
+  salvo en la medida en que la ley aplicable lo permita;
+- eliminar avisos de autoría, licencia o marcas;
+- usar el software para fines comerciales sin autorización previa y por escrito.
+
+3. COMPONENTES DE TERCEROS
+El software incluye componentes de terceros bajo sus propias licencias. Consulta
+THIRD_PARTY_NOTICES.txt.
+
+4. GARANTÍAS
+El software se proporciona "tal cual" y "según disponibilidad", sin garantías de
+ningún tipo. El titular no se hace responsable de daños directos o indirectos
+derivados del uso o la imposibilidad de uso del software.
+
+5. TERMINACIÓN
+Esta licencia termina automáticamente si incumples sus términos. Al terminar,
+debes dejar de usar y eliminar las copias del software.
+
+Para permisos, soporte o consultas, contacta al titular del proyecto.

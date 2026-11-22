@@ -19,6 +19,9 @@ pedir confirmación la primera vez. Descarga únicamente desde este repositorio
 oficial y, si aparece la advertencia, revisa el nombre del editor antes de
 continuar.
 
+Al instalar o usar Planifica aceptas la licencia de uso personal o educativo
+incluida con el software.
+
 ## Versiones
 
 Consulta la sección [Releases](https://github.com/JorgeMeraz107/planifica-downloads/releases)
@@ -31,6 +34,9 @@ proyecto.
 
 ## Licencia
 
-Software propietario. Todos los derechos reservados. Consulta [LICENSE](LICENSE).
+Software propietario. Se permite el uso personal o educativo del instalador
+descargado desde este repositorio oficial; no se permite su redistribución,
+modificación o uso comercial sin autorización. Consulta [LICENSE](LICENSE) y
+[THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 
 Desarrollado por **Ing. JM** · 2026.

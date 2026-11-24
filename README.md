@@ -39,4 +39,4 @@ descargado desde este repositorio oficial; no se permite su redistribución,
 modificación o uso comercial sin autorización. Consulta [LICENSE](LICENSE) y
 [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 
-Desarrollado por **Ing. JM** · 2026.
+Desarrollado por **Planifica** · 2026.

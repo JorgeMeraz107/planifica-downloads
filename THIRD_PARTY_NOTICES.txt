@@ -1,5 +1,5 @@
 PLANIFICA — AVISOS DE SOFTWARE DE TERCEROS
-Copyright (c) 2026 Ing. JM (Jorge Meraz).
+Copyright (c) 2026 Planifica.
 
 Planifica incluye componentes de terceros. Cada componente se distribuye bajo
 su propia licencia. Este archivo no modifica la licencia de Planifica (consulta
